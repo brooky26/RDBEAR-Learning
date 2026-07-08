@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+*_ticks.csv
+*_notouch_analysis.json
