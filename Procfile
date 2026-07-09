@@ -1,1 +1,1 @@
-worker: python rdbear_notouch_explorer.py
+worker: python rdbear_multi_explorer.py
